@@ -58,6 +58,8 @@ dkms.conf
 
 *.gcda
 *.gcno
+*.html
+*.css
 
 *.oa
 *.txt
